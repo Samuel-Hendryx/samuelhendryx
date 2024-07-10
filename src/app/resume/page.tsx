@@ -15,11 +15,11 @@ const Resume = () => {
     <div className='p-2 max-w-[700px] w-full'>
       <div className='py-2'>
         <h2>HCL America</h2>
-        <h3>Backend Developer</h3>
+        <h3>Verizon Backend Developer</h3>
         <p>Developed backend Python APIs responsible for tracking, auditing, and reporting 
         Cloud Instance inventory, migration, and hydration.</p>
         <p>Technologies: Python, Jira, GitLab, AWS Boto3, SQL, NewRelic, PostMan Mockoon, etc.</p>
-        <h3>QA Testing</h3>
+        <h3>Google QA Testing</h3>
         <p>Developed CI/CD automated integration, functional, and screen-diffing tests for 
         high availability software development documentation web application. Developed screen-diffing tests for custom 
         web elements, along with MarkDown-to-HTML compiler, image optimization pipelines, and deploy pipelines.</p>
