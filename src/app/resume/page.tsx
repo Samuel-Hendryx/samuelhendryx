@@ -15,37 +15,60 @@ const Resume = () => {
     <div className='p-2 max-w-[700px] w-full'>
       <div className='py-2'>
         <h2>HCL America</h2>
-        <h3>Verizon Backend Developer</h3>
-        <p>Developed backend Python APIs responsible for tracking, auditing, and reporting 
-        Cloud Instance inventory, migration, and hydration.</p>
-        <p>Technologies: Python, Jira, GitLab, AWS Boto3, SQL, NewRelic, PostMan Mockoon, etc.</p>
-        <h3>Google QA Testing</h3>
-        <p>Developed CI/CD automated integration, functional, and screen-diffing tests for 
-        high availability software development documentation web application. Developed screen-diffing tests for custom 
-        web elements, along with MarkDown-to-HTML compiler, image optimization pipelines, and deploy pipelines.</p>
-        <p>Technologies: Python, Java, Task Manager, Piper, Protocol Buffer, Sponge, Cider, 
-          Critique, Blaze, etc.</p>
+        <h3>HCLTech</h3>
+        <h4>Junior Developer</h4>
+        <p>Worked for HCL for 3 years on a variety of software engineering projects.  Also taught AI courses to 
+          software engineers.  Developed the course to help other technical professionals update their knowledge and 
+          skills in emerging technologies. The most relevant courses were a course on AI tools for android app testing 
+          and a Linux course on command line tools and file permissions. Created curriculum and PowerPoints to deliver 
+          clear concise lessons.</p>
+        <p>Tools: Tools: Android Studio, VSCode, Microsoft Office, Linux.</p>
+        <h3>Verizon</h3>
+        <h4>Software Engineer</h4>
+        <p>Designed and developed RESTful APIs using Python. Integrated APIs with MySQL, NewRelic, and Amazon AWS APIs. 
+          Developed and maintained API documentation and specifications. Developed and maintained unit tests. Conducted 
+          extensive troubleshooting and debugging of API issues. Worked closely with customer/user teams and management 
+          to ensure that software specifications, documentation, functionality and user manual met expectations.  
+          Personally responsible for writing the user manual and documentation for the team. Collaborated with teams of 
+          other developers and stakeholders to ensure software reliability and quality. Documented and delivered 
+          product presentation at handoff meeting to stakeholders.</p>
+        <p>Tools: AWS (boto3), Python, Jira, VSCode, Postman, Confluence, GitLab, Google Docs.</p>
+        <h3>Google</h3>
+        <h4>Software Engineer</h4>
+        <p>Designed and developed Selenium automated tests in Python and Java. Designed and developed functional, 
+          integration, unit, and screen-diffing tests. Seeded and tested basic and custom web content for function and 
+          appearance. Configured virtual test servers and environments in Python, Kotlin, and Go. Onboarded new 
+          teammates, and assisted in setup of development environments. Provided coding assistance and guidance to 
+          conform to Google standards. Ran daily standups and delegated tasks. Participated in the code review process, 
+          and approved code.</p>
+        <p>Tools: Selenium, Python, Java, JavaScript, Kotlin, Go, Linux, Buganizer, Task Manager, Critique, VSCode</p>
       </div>
       <div className='py-2'>
         <h2>California State University, Sacramento</h2>
         <h3>Student Assistant</h3>
-        <p>Managed, installed, configured, and tested lab projector system equipment. Troubleshot lab equipment and 
-        assisted professors under tight deadlines. Inventoried lab equipment, documented configuration, and cabling. 
-        Audited lab equipment.</p>
+        <h4>Computer Lab Assistant</h4>
+        <p>Procured hardware and software for the College of Engineering and Computer Science for faculty, staff and 
+          students in lab environments, for individual faculty and department offices. Communicated with vendors for 
+          bids and equipment. Worked with the Computer Services team and vendors to schedule service and repair of 
+          equipment. Responsible for computer troubleshooting, repair, and configuration. Assisted with the design, 
+          layout and configuration of hardware. Documented lab layouts and configurations. Assisted students and 
+          professors with hardware and software issues.</p>
       </div>
       <div className='py-2'>
         <h2>California Precision Service</h2>
-        <h3>IT Consultant</h3>
-        <p>Designed, configured, and maintained workstations and Linux file and database 
-        server. Developed data backup solutions and recovery procedures. Configured and maintained internal network, 
-        active directory, and software. Designed and maintained company website.</p>
+        <h3>IT Department Lead</h3>
+        <p>Installation, maintenance, updating and troubleshooting of hardware and software; debugging network issues; 
+          and configuring servers. Configured group based access privileges for Windows accounts. Configured the print 
+          server, and peripherals, and set default printers for client machines. Designed and configured on-site backup 
+          server and wrote backup scripts. On-call support: troubleshooting, problem solving, debugging, resolving 
+          technical issues.</p>
         <h3>Subcontract Manager / Lead Technician</h3>
         <p>Managed 6 lens optical repair technicians. Developed technical manuals for complex 
         adjustment equipment. Trained technicians on lens optical repair and adjustment. Reduced reworks by 10%. 
         Increased production by 30%.</p>
-        <h3>Lead Canon Repair Technician</h3>
-        <p>Taught myself how to repair Canon lenses and digital SLRs. Increased in-house 
-        repairs by 20%. Increased profit by 25%. Decreased turn around time by 30%.</p>
+        <h3>Master Canon Repair Technician</h3>
+        <p>Self taught to repair Canon lenses and digital SLRs. Increased in-house repairs by 20%. Increased 
+          profit by 25%. Decreased turn around time by 30%.</p>
       </div>
     </div>
   </div>
