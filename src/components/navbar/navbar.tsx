@@ -20,7 +20,6 @@ const Navbar = () => {
         <ul className='hidden md:flex px-4 text-lg'>
           <li className='px-4 border rounded-3xl border-transparent hover:border-gray-200 cursor-pointer'><Link href='/'>Home</Link></li>
           <li className='px-4 border rounded-3xl border-transparent hover:border-gray-200 cursor-pointer'><Link href='/resume/'>Resume</Link></li>
-          {/*<li className='px-4 border rounded-3xl border-transparent hover:border-gray-200 cursor-pointer'><Link href='/about/'>About</Link></li>*/)
           <li className='px-4 border rounded-3xl border-transparent hover:border-gray-200 cursor-pointer'><Link href='/hobbies/'>Hobbies</Link></li>
           <li className='px-4 border rounded-3xl border-transparent hover:border-gray-200 cursor-pointer'><Link href='/weather/'>Weather App</Link></li>
         </ul>
