@@ -22,7 +22,7 @@ const Resume = () => {
           skills in emerging technologies. The most relevant courses were a course on AI tools for android app testing 
           and a Linux course on command line tools and file permissions. Created curriculum and PowerPoints to deliver 
           clear concise lessons.</p>
-        <p>Tools: Tools: Android Studio, VSCode, Microsoft Office, Linux.</p>
+        <p>Tools: Android Studio, VSCode, Microsoft Office, Linux.</p>
         <h3>Verizon</h3>
         <h4>Software Engineer</h4>
         <p>Designed and developed RESTful APIs using Python. Integrated APIs with MySQL, NewRelic, and Amazon AWS APIs. 
